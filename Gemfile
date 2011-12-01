@@ -17,6 +17,7 @@ end
 
 group :test do
   gem 'rspec-rails'
+  gem 'term-ansicolor'
   gem 'webrat'
   gem 'spork'
   gem 'factory_girl_rails'
